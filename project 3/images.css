@@ -1,0 +1,26 @@
+.container{
+    position:relative;    
+}
+
+.myslides
+{
+    position:absolute;
+}
+
+.btn
+{
+    position:absolute;
+    z-index:999;
+    height:60px;
+    width:60px;
+    background-color:#000;
+    color:#FFF;
+    font-size:30px;
+    font-weight:bold;
+    top:200px;
+}
+
+#btn2{
+    position:relative;
+    float:right;
+}
